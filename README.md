@@ -74,8 +74,8 @@ I develop and maintain **production software for [Teraoka (DIGI)](https://www.di
 ### 📊 GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdriaanBoshoff&show_icons=true&hide_border=true&count_private=true&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdriaanBoshoff&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="Top languages"/>
+  <img src="assets/stats.svg" alt="GitHub stats"/>
+  <img src="assets/top-langs.svg" alt="Most used languages"/>
 </p>
 
 ---
